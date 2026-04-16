@@ -1,0 +1,12 @@
+[book]
+title = "MRVA Report Documentation"
+authors = ["Shadi Samadi"]
+language = "en"
+
+[preprocessor.asciinema]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
