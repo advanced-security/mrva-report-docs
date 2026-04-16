@@ -1,0 +1,12 @@
+{"version":3,"term":{"cols":100,"rows":30,"type":"xterm-256color","version":"Konsole 23.08.5","theme":{"fg":"#ffffff","bg":"#000000","palette":"#000000:#b21818:#18b218:#b26818:#1818b2:#b218b2:#18b2b2:#b2b2b2:#686868:#ff5454:#54ff54:#ffff54:#5454ff:#ff54ff:#54ffff:#ffffff"}},"timestamp":1776041745,"env":{"SHELL":"/bin/bash"}}
+[0.152, "o", "\u001b[?2004h$ "]
+[0.3, "o", "\u001b[H\u001b[2J$ "]
+[0.3, "o", "."]
+[0.176, "o", "/"]
+[0.093, "o", "s"]
+[0.126, "o", "a"]
+[0.334, "o", "rif-sql "]
+[0.808, "o", "\r\n\u001b[?2004l\r"]
+[0.005, "o", "sarif-sql is a command-line tool that converts SARIF (Static Analysis Results Interchange Format) files into SQL format for easier data processing and analysis.\r\n\r\nUsage:\r\n  sarif-sql [command]\r\n\r\nAvailable Commands:\r\n  analysis    Manage MRVA analysis lifecycle and SARIF artifacts\r\n  completion  Generate the autocompletion script for the specified shell\r\n  help        Help about any command\r\n  transform   Transform SARIF files into Protobuf format\r\n\r\nFlags:\r\n"]
+[0.000, "o", "      --analysis-id string       Analysis ID for the MRVA analysis\r\n      --controller-repo string   Specify the controller repository in owner/name format\r\n  -h, --help                     help for sarif-sql\r\n\r\nUse \"sarif-sql [command] --help\" for more information about a command.\r\n"]
+[0.007, "o", "\u001b[?2004h$ "]
