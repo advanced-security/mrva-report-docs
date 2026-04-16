@@ -36,7 +36,7 @@ jobs:
           build-mode: none
         - language: javascript-typescript
           build-mode: none
- ode-scanning-for-compiled-languages
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v6
