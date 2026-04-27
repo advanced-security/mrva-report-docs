@@ -27,7 +27,7 @@ Five components automate the end-to-end MRVA lifecycle:
 
 Submit a CodeQL variant analysis via the [Create a CodeQL variant analysis](https://docs.github.com/en/rest/code-scanning/code-scanning?apiVersion=2026-03-10#create-a-codeql-variant-analysis) API. This triggers a GitHub Actions workflow that executes CodeQL queries against up to 1,000 repositories.
 
-### 2. `sarif-protobuf`: SARIF-to-SQL Transform CLI
+### 2. `sarif-sql`: SARIF-to-SQL Transform CLI
 
 A Go CLI that downloads and transforms MRVA results:
 
@@ -61,7 +61,7 @@ A GitHub Actions workflow chains steps 2–4 into a single `workflow_dispatch` t
 
 ## Architecture Diagram
 
-![MRVA Architecture](../images/mrva-architecture.drawio.png)
+![MRVA Architecture](images/mrva-architecture.drawio.png)
 
 ## Design Decisions
 
