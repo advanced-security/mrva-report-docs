@@ -6,7 +6,7 @@ A live example is available at [ghas-projects.github.io/mrva-deploy](https://gha
 
 ## Reading the documentation
 
-The published book is available at [ghas-projects.github.io/mrva-documentation](https://ghas-projects.github.io/mrva-documentation/).
+The published book is available at [advanced-security.github.io/mrva-report-docs](https://advanced-security.github.io/mrva-report-docs/).
 
 ## Building locally
 
